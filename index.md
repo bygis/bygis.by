@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## byGIS
 
-You can use the [editor on GitHub](https://github.com/bygis/bygis.by/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### byGIS meetup 15: строим города
 
-### Markdown
+В программе:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * Как проектировать многоэтажные дома c помощью Kreo. Максим Маркевич.
+Как начать проектирование с концепта и оценить примерную стоимость строительства за 10 минут?
 
-```markdown
-Syntax highlighted code block
+ * Использование геоданных в инженерной геологии. Александр Гончаренко.
+Старые карты, данные о рельефе, старые и современные космоаэртофотоснимков для целей инженерной геологии.
 
-# Header 1
-## Header 2
-### Header 3
+ * Выбираем дачу с лучшими видами с помощью PostGIS. Дорофей Пролесковский.
+Оценка связности городской ткани при помощи сетевого анализа данных и OpenStreetMap. Евгений Калиновский, Татьяна Карват
+Исследование доступности спальных районов, поиск их центров активности и общественных пространств.
 
-- Bulleted
-- List
+ * Агляд бібліятэк для працы з геададзенымі. Павел Тысляцкі
+Postgis, geospark, python: geopandas, shapely, fiona, pyproj, scipy.spatial, PySAL, mapbox.gl, deck.gl.
 
-1. Numbered
-2. List
+Видеозаписи:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bygis/bygis.by/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[2019](https://www.youtube.com/playlist?list=PLpVeA1tdgfCDTb1iYJ-1Gzboux-ohGEoT) 
+[2018](https://www.youtube.com/playlist?list=PLpVeA1tdgfCCB3iKA5BqqbfhRdBLwhdn8)
+[2017](https://www.youtube.com/playlist?list=PLpVeA1tdgfCANfr_yTECodtFqfu9ld1xz)
