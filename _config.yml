@@ -28,9 +28,9 @@ plugins:
   - jekyll-feed
 
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "ByGIS"
+  email: "me@komzpa.net"
+  url: "https://bygis.by"
 
 baseurl: /
 
