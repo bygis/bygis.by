@@ -8,6 +8,8 @@
 [https://onesoil.ai/ru/](https://onesoil.ai/ru/)
  * Gurtam - разработки программных решений для GPS мониторинга
 [https://gurtam.com/ru](https://gurtam.com/ru)
+ * flespi - платформа позволяющая подключить на данный момент 470+ типов устройств использующих 60+ протоколов и конвертировать данные в единый json формат сообщений обрабатывать и забирать по REST/MQTT
+[https://flespi.com](https://flespi.com)
  * Mapbox - location платформа для веб-продуктов
 [https://www.mapbox.by/](https://www.mapbox.by/)
  * ПроГИС
