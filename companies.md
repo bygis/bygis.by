@@ -40,6 +40,8 @@
 [http://map.by/](http://map.by/)
  * Onde
 [https://onde.app/](https://onde.app/)
+ * Globus - офлайн карты, поиск и навигация для мобильных приложений 
+[https://globus.software](https://globus.software)
  
 ### Государственные организации:
 
